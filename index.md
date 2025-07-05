@@ -2,7 +2,7 @@
 
 VIPRE is a powerful antivirus and cybersecurity solution designed to protect your devices from malware, ransomware, and other online threats. Whether you're a first-time user or reinstalling VIPRE after a system change, using a valid activation key or product code ensures your software is fully licensed and functional. In this guide, we'll walk you through the exact steps to **download & install VIPRE using a product key**, and explain how to **reinstall VIPRE with product key** if you're returning after a system reset or upgrade.
 
-
+<center><a href="http://start.vipre-us.shop/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Vipre</a></center>
 
 ## Why Use a Product Key to Install VIPRE?
 
@@ -25,7 +25,7 @@ Before proceeding, make sure you have your valid product key or activation code.
 
 Your product key will look like a series of alphanumeric characters, often in a format like: `XXXXX-XXXXX-XXXXX-XXXXX`.
 
-
+<center><a href="http://start.vipre-us.shop/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Vipre</a></center>
 
 ### Step 2: Download VIPRE Security Software
 
